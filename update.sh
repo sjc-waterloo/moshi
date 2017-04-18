@@ -1,5 +1,5 @@
 git config --global user.email "steven@moshimori.com"
-git config --global user.name "steve"
+git config --global user.name "steven"
 
 cd /home/frappe/frappe-bench/apps/erpnext
 git remote remove upstream
